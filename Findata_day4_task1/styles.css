@@ -1,0 +1,10 @@
+/* CSS to style list items */
+#itemList li {
+    color: black;
+  }
+  
+  /* CSS for hover effect */
+  #itemList li:hover {
+    color: yellow;
+  }
+  
